@@ -48,6 +48,9 @@ RES_NM: 경복궁
 ![7](./images/7.png)
 
 
+- 테스트된 API로 반환된 JSON 분석을 위해서 [json parser](http://json.parser.online.fr/)라는 사이트를 이용할 수 있다.
+
+
 - API 테스트를 기반으로 코드 작성
 
 
